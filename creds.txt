@@ -1,2 +1,0 @@
-username=adya123
-password=rdy03
